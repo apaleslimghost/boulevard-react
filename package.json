@@ -1,0 +1,25 @@
+{
+  "name": "boulevard-react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quarterto/boulevard-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quarterto/boulevard-react/issues"
+  },
+  "homepage": "https://github.com/quarterto/boulevard-react#readme",
+  "dependencies": {
+    "boulevard": "^2.3.5",
+    "react": "^16.8.6",
+    "use-history": "^1.0.0"
+  }
+}
