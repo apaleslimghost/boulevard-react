@@ -1,3 +1,4 @@
+const {useMemo} = require('react')
 const useHistory = require('use-history')
 const {route_} = require('boulevard')
 
