@@ -5,6 +5,7 @@ const {route_} = require('boulevard')
 const router = route_({
 	getUrl: ({url}) => url,
 	addParams: (params, ...args) => [params, ...args],
+	fourOhFour: () => null,
 })
 
 const useRoutes = routes => {
